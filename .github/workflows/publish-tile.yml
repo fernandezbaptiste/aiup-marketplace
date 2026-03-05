@@ -19,6 +19,6 @@ jobs:
         with:
           token: ${{ secrets.TESSL_API_TOKEN }}
           # Get your TESSl_API_TOKEN in [https://tessl.io/account/api-keys](https://tessl.io/account/api-keys)
-          # path: './path/to/tile' # Optional, defaults to current directory
+          path: './aiup-vaadin-jooq/skills/data-modeler'
           # review: 'true'          # Enable skill review quality gate (default: true)
           # review-threshold: '50'  # Minimum score 0-100 to pass (default: 50)
