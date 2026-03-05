@@ -1,0 +1,11 @@
+{
+  "name": "v2-marketplace/data-modeler",
+  "version": "0.1.0",
+  "private": false,
+  "summary": "Creates entity model documents with Mermeaid.js ER diagrams and attribute tables.",
+  "skills": {
+    "data-modeler": {
+      "path": "SKILL.md"
+    }
+  }
+}

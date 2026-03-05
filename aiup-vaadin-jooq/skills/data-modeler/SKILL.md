@@ -1,6 +1,6 @@
 ---
 name: data-modeler
-description: Creates entity model documents with Mermeaid.js ER diagrams and attribute tables.
+description: Creates entity model documents with Mermaid.js ER diagrams and attribute tables. Use when asked to design a database schema, create an ERD, build an entity relationship diagram, model data entities, visualize a database design, or produce a data model document with structured attribute definitions.
 ---
 
 # Data Modeler
